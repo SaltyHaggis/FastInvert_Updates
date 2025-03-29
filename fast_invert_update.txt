@@ -1,2 +1,2 @@
-version = 1.0.0
-download_link = https://www.dropbox.com/scl/fi/fn1rzqk8cxpzptdx6awg2/Fast-Invert.zip?rlkey=ga05z9wtzwa3hv6k0lb187vvg&st=el382m5b&dl=0
+version = 1.1.0
+download_link = https://www.dropbox.com/scl/fi/udekada0clbucpa3wyahc/Fast-Invert.exe?rlkey=piw52k910693i2aeqfd47sii3&st=s56xxy6j&dl=0
