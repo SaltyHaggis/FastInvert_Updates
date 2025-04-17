@@ -1,2 +1,2 @@
 version = 1.0.0
-download_link = https://www.dropbox.com/scl/fi/plvobzpxsr8bioe6vthn8/Easy-Invert.exe?rlkey=x8agbiqkiv9rpc4yosha9r7y8&st=lahtrysx&dl=0
+download_link = https://www.dropbox.com/scl/fi/4oy9pq6jgquvkf1l25plj/Easy-Invert.exe?rlkey=i72qsd2r33hqjs8iwx8t4daxn&st=p6s60hg0&dl=0
